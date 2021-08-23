@@ -1,7 +1,9 @@
 name: algorand_kmd
 version: 1.0.0
-description: OpenAPI API client
-homepage: homepage
+description: OpenAPI API client for Algorand Key Management Daemon
+homepage: https://www.algorand.com
+repository: https://github.com/RootSoft/algorand-kmd-dart
+issue_tracker: https://github.com/RootSoft/algorand-kmd-dart/issues
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
